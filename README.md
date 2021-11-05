@@ -1,5 +1,5 @@
 <h1 align="center">Hi I'm Astitva Veer Garg<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>
-<h3 align="center">I am a first year CSe student and currently learning AI and ML as a specialization.</h3>
+<h3 align="center">I am a First Year CSE student and currently learning AI and ML as a specialization.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karanpargal&label=Profile%20views&color=0e75b6&style=flat" alt="karanpargal" /> </p>
 <p align="center"> 
 <img align="center" alt="GIF of Me" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="650px"/>
