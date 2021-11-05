@@ -2,7 +2,8 @@
 <p align="center"> 
 <img align="center" alt="GIF of Me" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="650px"/>
 </p>
-
+<h3 align="center">I am a first year CSe student and currently learning AI and ML as a specialization.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karanpargal&label=Profile%20views&color=0e75b6&style=flat" alt="karanpargal" /> </p>
 
   ![Astitva Veer Garg's github activity graph](https://activity-graph.herokuapp.com/graph?username=astitvaveergarg&theme=react-dark)
 
