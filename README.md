@@ -55,6 +55,6 @@
 
 |💻Most Used Languages and Stats 📈|🎯 Github Streaks and Trophies 🏆|
 |-----------------------------------|----------------------------------|
-|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-bhatnagar&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)](https://github.com/astitvaveergarg)|[![Sushant's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=pratham-bhatnagar&theme=midnight-purple&hide_border=true)](https://github.com/astitvaveergarg)
-|[![Pratham's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratham-bhatnagar&show_icons=true&theme=midnight-purple&hide_title=true)](https://github.com/astitvaveergarg)|
+|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=astitvaveergarg&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)](https://github.com/astitvaveergarg)|[![Astitva's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=astitvaveergarg&theme=midnight-purple&hide_border=true)](https://github.com/astitvaveergarg)
+|[![Astitva's GitHub stats](https://github-readme-stats.vercel.app/api?username=astitvaveergarg&show_icons=true&theme=midnight-purple&hide_title=true)](https://github.com/astitvaveergarg)|
 </p>
