@@ -49,6 +49,14 @@
       height="40"
     />
   </a>
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img
+      src="https://www.britefish.net/wp-content/uploads/2019/07/logo-c-1.png"
+      alt="C Programming"
+      width="40"
+      height="40"
+    />
+  </a>
 
 
 <h2 align="center">Github Statistics </h2>
@@ -57,4 +65,5 @@
 |-----------------------------------|----------------------------------|
 |[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=astitvaveergarg&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)](https://github.com/astitvaveergarg)|[![Astitva's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=astitvaveergarg&theme=midnight-purple&hide_border=true)](https://github.com/astitvaveergarg)
 |[![Astitva's GitHub stats](https://github-readme-stats.vercel.app/api?username=astitvaveergarg&show_icons=true&theme=midnight-purple&hide_title=true)](https://github.com/astitvaveergarg)|
+</p>
 </p>
