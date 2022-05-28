@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:astitvaveer10@gmail.com?'Reching out to you'='Hi, I want to enquire about...'" rel="noopener" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/512/732/732200.png" alt="2000_i_k" height="40" width="40" /></fa>
+<a href="mailto:astitvaveer10@gmail.com?'Reching out to you'='Hi, I want to enquire about...'" rel="noopener" target="_blank"><img align="center" src="https://www.freepnglogos.com/uploads/email-png/email-logo-communications-brands-and-logotypes-gmail-14.png" alt="email icon png transparent email icon images" height="40" width="40" /></fa>
 
 </a>
   <a href="https://twitter.com/AstitvaVeer" target="blank"
@@ -53,6 +53,22 @@
     <img
       src="https://www.britefish.net/wp-content/uploads/2019/07/logo-c-1.png"
       alt="C Programming"
+      width="40"
+      height="40"
+    />
+  </a>
+   <a href="https://html.com/" target="_blank">
+    <img
+      src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png"
+      alt="HTML"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img
+      src="https://cdn.iconscout.com/icon/free/png-256/css3-9-1175237.png"
+      alt="CSS"
       width="40"
       height="40"
     />
