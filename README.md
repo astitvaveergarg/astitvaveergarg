@@ -73,6 +73,30 @@
       height="40"
     />
   </a>
+ <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank">
+    <img
+      src="https://flask.palletsprojects.com/en/2.2.x/_images/flask-logo.png"
+      alt="Flask"
+      width="40"
+      height="40"
+    />
+  </a>
+<a href="https://www.mongodb.com/" target="_blank">
+    <img
+      src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png"
+      alt="Flask"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img
+      src="https://upload.wikimedia.org/wikiversity/en/8/8c/FastAPI_logo.png?20211121151501"
+      alt="Flask"
+      width="40"
+      height="40"
+    />
+  </a>
 
 
 <h2 align="center">Github Statistics </h2>
