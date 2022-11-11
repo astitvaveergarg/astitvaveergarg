@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:astitvaveer10@gmail.com?'Reching out to you'='Hi, I want to enquire about...'" rel="noopener" target="_blank"><img align="center" src="https://www.freepnglogos.com/uploads/email-png/email-logo-communications-brands-and-logotypes-gmail-14.png" alt="email icon png transparent email icon images" height="40" width="40" /></fa>
+<a href="mailto:astitvaveer10@gmail.com?'Reching out to you'='Hi, I want to enquire about...'" rel="noopener" target="_blank"><img align="center" src="https://static.thenounproject.com/png/223491-200.png" alt="email icon png transparent email icon images" height="40" width="40" /></fa>
 
 </a>
   <a href="https://twitter.com/AstitvaVeer" target="blank"
