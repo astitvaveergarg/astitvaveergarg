@@ -5,7 +5,7 @@
 <img align="center" alt="GIF of Me" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="650px"/>
 </p>
 
-  ![Astitva Veer Garg's github activity graph](https://activity-graph.herokuapp.com/graph?username=astitvaveergarg&theme=react-dark)
+  ![Astitva Veer Garg's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=astitvaveergarg&theme=react-dark)
 
 
 
