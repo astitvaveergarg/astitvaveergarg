@@ -1,109 +1,74 @@
-<h1 align="center">Hi I'm Astitva Veer Garg  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" height="30px" width="30px"></h1>
-<h3 align="center">I am a Third Year CSE student and currently learning AI and ML as a specialization.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=astitvaveergarg&label=Profile%20views&color=0e75b6&style=flat" alt="Astitva Veer Garg"/> </p>
-<p align="center"> 
-<img align="center" alt="GIF of Me" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="650px"/>
-</p>
+# Hi, I'm Astitva Veer Garg
 
-  ![Astitva Veer Garg's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=astitvaveergarg&theme=react-dark)
+AI/ML Research Engineer and DevOps/MLOps Engineer focused on building scalable machine learning systems — from research prototypes to production deployments.
 
+Currently working on cloud-native AI platforms and applied deep learning systems across industry and research environments.
 
+---
 
+## Experience Snapshot
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="mailto:astitvaveer10@gmail.com?'Reching out to you'='Hi, I want to enquire about...'" rel="noopener" target="_blank"><img align="center" src="https://static.thenounproject.com/png/223491-200.png" alt="email icon png transparent email icon images" height="40" width="40" /></fa>
+• DevOps Engineer – HashedIn by Deloitte (Core platform team, AI Assist)  
+• Research Intern – Samsung R&D (Generative Vision, GANs)  
+• AI/ML Engineering Intern – DRDO (Computer Vision Systems)  
+• 2 Springer-indexed research publications  
 
-</a>
-  <a href="https://twitter.com/AstitvaVeer" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="AstitvaVeer"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://www.linkedin.com/in/astitva-veer-garg/" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="astitva-veer-garg"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://instagram.com/astitvagarg" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="astitvagarg"
-      height="30"
-      width="40"
-  /></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-    <a href="https://www.python.org" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img
-      src="https://www.britefish.net/wp-content/uploads/2019/07/logo-c-1.png"
-      alt="C Programming"
-      width="40"
-      height="40"
-    />
-  </a>
-   <a href="https://html.com/" target="_blank">
-    <img
-      src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png"
-      alt="HTML"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img
-      src="https://cdn.iconscout.com/icon/free/png-256/css3-9-1175237.png"
-      alt="CSS"
-      width="40"
-      height="40"
-    />
-  </a>
- <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank">
-    <img
-      src="https://flask.palletsprojects.com/en/2.2.x/_images/flask-logo.png"
-      alt="Flask"
-      width="40"
-      height="40"
-    />
-  </a>
-<a href="https://www.mongodb.com/" target="_blank">
-    <img
-      src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png"
-      alt="Flask"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank">
-    <img
-      src="https://upload.wikimedia.org/wikiversity/en/8/8c/FastAPI_logo.png?20211121151501"
-      alt="Flask"
-      width="40"
-      height="40"
-    />
-  </a>
+---
 
+## Research & Engineering Interests
 
-<h2 align="center">Github Statistics </h2>
+- Generative Models (GANs, Super-Resolution, Style Transfer)
+- Retrieval-Augmented and Robust LLM Systems
+- Applied Computer Vision for real-world deployment
+- Scalable ML Systems & MLOps Infrastructure
 
-|💻Most Used Languages and Stats 📈|🎯 Github Streaks and Trophies 🏆|
-|-----------------------------------|----------------------------------|
-|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=astitvaveergarg&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)](https://github.com/astitvaveergarg)|[![Astitva's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=astitvaveergarg&theme=midnight-purple&hide_border=true)](https://github.com/astitvaveergarg)
-|[![Astitva's GitHub stats](https://github-readme-stats.vercel.app/api?username=astitvaveergarg&show_icons=true&theme=midnight-purple&hide_title=true)](https://github.com/astitvaveergarg)|
-</p>
-</p>
+---
+
+## Featured Projects
+
+### VisionOps — Production MLOps Platform
+A cloud-native ML inference platform deploying YOLO models at scale using Kubernetes and Terraform.  
+Includes autoscaling, caching, monitoring, CI/CD, and multi-cloud infrastructure.
+
+→ Designed for production-grade, reproducible ML deployments
+
+### Vision-AI — Modular Computer Vision Framework
+Reusable training and inference framework built for experimentation, evaluation, and rapid prototyping of vision models.
+
+→ Focused on clean architecture and research-friendly workflows
+
+---
+
+## Publications
+
+**Structured Relevance Assessment for Robust Retrieval-Augmented Language Models**  
+Springer LNNS  
+Improved reliability of RAG pipelines through structured relevance evaluation and validation metrics.
+
+**Advanced Deep Learning Framework for Audio Forensics and Anomaly Detection**  
+Springer CCIS  
+Designed Conv1D + BiLSTM architectures for forensic audio classification and anomaly detection.
+
+---
+
+## Tech Stack
+
+**Machine Learning:** PyTorch, TensorFlow, GANs, CNNs, RAG  
+**Cloud & MLOps:** Docker, Kubernetes, Terraform, CI/CD, Redis  
+**Backend:** Python, FastAPI  
+**Data & Tooling:** OpenCV, NumPy, Pandas, Git, Linux  
+
+---
+
+## Currently
+
+- Preparing for MS in Australia  
+- Open to Research Assistant and MLOps/DevOps Internship opportunities  
+- Building production-grade ML systems  
+
+---
+
+## Contact
+
+Email: gargveerastitva@gmail.com  
+LinkedIn: https://linkedin.com/in/astitva-veer-garg
